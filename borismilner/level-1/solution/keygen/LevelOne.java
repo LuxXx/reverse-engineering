@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/**
+ * @author LuxXx
+ * https://github.com/LuxXx
+ */
 public class LevelOne {
 	public static void main(String[] args) {
 		String username;

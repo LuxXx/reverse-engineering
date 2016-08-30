@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
-
+/**
+ * @author LuxXx
+ * https://github.com/LuxXx
+ */
 public class LevelTwo {
 	public static void main(String[] args) {
 		long userId = 0;
